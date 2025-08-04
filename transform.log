@@ -1,0 +1,7 @@
+2025-08-04 08:43:28,340 [MainThread  ] [INFO ] Stage 1: Data loaded and cleaned successfully.
+2025-08-04 08:43:28,341 [MainThread  ] [INFO ] === DEBUGGING BEFORE MASTER TABLE CREATION ===
+2025-08-04 08:43:40,711 [MainThread  ] [INFO ] Stage 2: Master table saved
+2025-08-04 08:43:45,437 [MainThread  ] [INFO ] Stage 3: Query-optimized tables saved
+2025-08-04 08:43:45,437 [MainThread  ] [INFO ] Transformation pipeline completed
+2025-08-04 08:43:45,438 [MainThread  ] [INFO ] Total time taken0 hours , 0 minutes, 29 seconds
+2025-08-04 08:43:45,438 [MainThread  ] [INFO ] Closing down clientserver connection

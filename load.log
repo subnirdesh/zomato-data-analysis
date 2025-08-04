@@ -1,0 +1,32 @@
+2025-07-29 08:51:51,666 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-07-29 08:51:51,667 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-07-29 08:51:51,667 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-07-29 08:51:51,668 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-07-29 08:51:51,668 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-07-29 08:51:57,995 [MainThread  ] [INFO ] Loaded master_table to PostgreSQL
+2025-08-04 08:40:02,606 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-08-04 08:40:02,606 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-08-04 08:40:02,607 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-08-04 08:40:02,607 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-08-04 08:40:02,607 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-08-04 08:40:08,965 [MainThread  ] [INFO ] Loaded master_table to PostgreSQL
+2025-08-04 08:40:27,296 [MainThread  ] [INFO ] Loaded recommendations_exploded to PostgreSQL
+2025-08-04 08:40:28,837 [MainThread  ] [INFO ] Loaded artist_track to PostgreSQL
+2025-08-04 08:40:30,528 [MainThread  ] [INFO ] Loaded track_metadata to PostgreSQL
+2025-08-04 08:40:32,984 [MainThread  ] [INFO ] Loaded artist_metadata to PostgreSQL
+2025-08-04 08:40:32,985 [MainThread  ] [INFO ] Load stage completed
+2025-08-04 08:40:32,985 [MainThread  ] [INFO ] Total time taken0 hours , 0 minutes, 31 seconds
+2025-08-04 08:40:32,985 [MainThread  ] [INFO ] Closing down clientserver connection
+2025-08-04 08:43:54,660 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-08-04 08:43:54,660 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-08-04 08:43:54,661 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-08-04 08:43:54,661 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-08-04 08:43:54,661 [MainThread  ] [INFO ] PostgreSQL tables created successfully
+2025-08-04 08:44:00,950 [MainThread  ] [INFO ] Loaded master_table to PostgreSQL
+2025-08-04 08:44:16,994 [MainThread  ] [INFO ] Loaded recommendations_exploded to PostgreSQL
+2025-08-04 08:44:18,179 [MainThread  ] [INFO ] Loaded artist_track to PostgreSQL
+2025-08-04 08:44:19,407 [MainThread  ] [INFO ] Loaded track_metadata to PostgreSQL
+2025-08-04 08:44:21,673 [MainThread  ] [INFO ] Loaded artist_metadata to PostgreSQL
+2025-08-04 08:44:21,673 [MainThread  ] [INFO ] Load stage completed
+2025-08-04 08:44:21,673 [MainThread  ] [INFO ] Total time taken0 hours , 0 minutes, 28 seconds
+2025-08-04 08:44:21,674 [MainThread  ] [INFO ] Closing down clientserver connection
