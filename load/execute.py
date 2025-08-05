@@ -135,7 +135,7 @@ if __name__ == "__main__":
     pg_pw=sys.argv[6]
 
     if not os.path.exists(input_dir):
-        print(f"Error: Input directory {input_dir} does not exist")
+        logger.error(f"Error: Input directory {input_dir} does not exist")
         sys.exit(1)
 
     spark = create_spark_session()
