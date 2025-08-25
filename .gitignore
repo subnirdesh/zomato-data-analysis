@@ -3,3 +3,4 @@ set-java11.sh
 extract.log
 transform.log
 load.log
+.java-version
